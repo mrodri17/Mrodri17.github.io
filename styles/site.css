@@ -1,0 +1,14 @@
+body {
+  background: gray;
+}
+
+h1 {
+  margin: 0;
+  font-family: georgia;
+  font-style: itallic;
+  font-size: 120px;
+  line-height: 1.5;
+  letter-spacing: .025em;
+  text-transform: uppercase;
+  color: #000000;
+}
